@@ -21,7 +21,7 @@ The model is built in TensorFlow/Keras and deployed using Streamlit for easy int
 
 # How to Run the Project
 - 1. Clone the Repository
-  git clone https://github.com/srushti0801/Pneumonia-Detection-CNN.git
+- git clone https://github.com/srushti0801/Pneumonia-Detection-CNN.git
   cd Pneumonia-Detection-CNN
 
 - 2. Install Dependencies
@@ -35,10 +35,10 @@ The model is built in TensorFlow/Keras and deployed using Streamlit for easy int
 -The app will predict if the X-ray shows signs of Pneumonia or is Normal with a simple output.
 
 📸 Sample Output
+<img width="1418" height="963" alt="Screenshot (312)" src="https://github.com/user-attachments/assets/7cdfb01f-cec7-4a9b-bfc6-e9c9995d681f" />
 
-<img width="1920" height="1080" alt="Screenshot (313)" src="https://github.com/user-attachments/assets/2e342707-8a78-44f9-bbc0-42737b19486c" />
 
-<img width="1920" height="1080" alt="Screenshot (312)" src="https://github.com/user-attachments/assets/b26ec2a3-40ba-4942-9627-25f997be3400" />
+<img width="1375" height="959" alt="Screenshot (313)" src="https://github.com/user-attachments/assets/cd944fb1-806c-4e2a-b13f-88071e68b509" />
 
 
 ⭐ If you like this project, feel free to star it on GitHub!
