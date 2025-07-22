@@ -21,7 +21,7 @@ The model is built in TensorFlow/Keras and deployed using Streamlit for easy int
 
 # How to Run the Project
 - 1. Clone the Repository
-- git clone https://github.com/srushti0801/Pneumonia-Detection-CNN.git
+- git clone [https://github.com/srushti0801/Pneumonia-Detection-CNN](https://github.com/srushti0801/Predicting-Pneumonia-with-chest-X-Rays-using-CNN).git
   cd Pneumonia-Detection-CNN
 
 - 2. Install Dependencies
